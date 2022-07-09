@@ -7550,9 +7550,9 @@ unc-path-regex@^0.1.2:
   integrity sha1-5z3T17DXxe2G+6xrCufYxqadUPo=
 
 undici@^5.1.0:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-5.4.0.tgz#c474fae02743d4788b96118d46008a24195024d2"
-  integrity sha512-A1SRXysDg7J+mVP46jF+9cKANw0kptqSFZ8tGyL+HBiv0K1spjxPX8Z4EGu+Eu6pjClJUBdnUPlxrOafR668/g==
+  version "5.6.1"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-5.6.1.tgz#7e5c56d15032d06738358dea433f98130e2a0561"
+  integrity sha512-yYVqywdCbNb99f/w045wqmv++WExXDjY0FEvLSB7QUZZH6izxrVkF4dJn1aimcvN0+WAhv75Gg7v6VJoqmRtJQ==
 
 union-value@^1.0.0:
   version "1.0.1"
